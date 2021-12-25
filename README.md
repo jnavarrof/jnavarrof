@@ -36,7 +36,7 @@
 
 <br/>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jnavarrof&show_icons=true&theme=gotham" alt="jnavarrof" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jnavarrof&count_private=true&show_icons=true&theme=gotham" alt="jnavarrof" />
 
 
 
