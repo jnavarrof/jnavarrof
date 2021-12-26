@@ -42,6 +42,9 @@ I’m currently working on cool HPC and Cloud Computing in Scientic environments
 -->
 
 <h4>📕 &nbsp; Latest Blog Posts</h4>
+
+📕 &nbsp;**Latest Blog Posts:**
+
 <!-- TODOL dev.to and medium -->
 <!-- https://jnavarrof.github.io/feed.xml -->
 <!-- BLOG-POST-LIST:START -->
@@ -59,9 +62,7 @@ I’m currently working on cool HPC and Cloud Computing in Scientic environments
 </a>
 
 
-
-<h2 align="center">Github Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
-</h2>
+<h2 align="center">Github Contribution Graph</h2>
 </p>
 <p align="center">
   <img src="https://github.com/jnavarrof/jnavarrof/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
