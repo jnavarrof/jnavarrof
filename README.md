@@ -39,4 +39,9 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jnavarrof&count_private=true&show_icons=true&theme=gotham" alt="jnavarrof" />
 
 
+📕 &nbsp;### Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
+  
+  https://jnavarrof.github.io/feed.xml
