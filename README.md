@@ -1,11 +1,11 @@
-# Hello <img src="https://bestanimations.com/uploads/gifs/726892854earth-spinning-rotating-animation-14.gif" width="50px">!
+## Hello <img src="https://bestanimations.com/uploads/gifs/726892854earth-spinning-rotating-animation-14.gif" width="30px">
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 ![](https://komarev.com/ghpvc/?username=jnavarrof&label=Profile%20views&color=0e75b6&style=flat)
 
 ## <h3 align="center">I'm Javier, an HPC and Cloud Engineer passionate about DevOps and SRE.</h3>
 
-- 💬 Ask me about **High-Performance/High-Throughput Computing and Cloud**
+- 💬 Ask me about **High-Performance/High-Throughput Computing, Private & Public Cloud, and Infraestructure as Code.**
 
 <br/>
 
@@ -37,21 +37,22 @@
 
 <br/>
 
-📊 &nbsp;**Some GitHub Stats**
-<p align="center"> 
-<a href="https://github.com/jnavarrof/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jnavarrof&count_private=true&show_icons=true&repo=github-readme-stats"  alt="jnavarrof" />
-</a>
-<a href="https://github.com/jnavarrof/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jnavarrof&repo=convoychat" alt="jnavarrof" />
-</a>
-</p>
-
-
 📕 &nbsp; **Latest Blog Posts**
 <!-- https://jnavarrof.github.io/feed.xml -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+<br/>
+
+📊 &nbsp;**GitHub Readme Stats**
+<p align="center"> 
+<a href="https://github.com/jnavarrof/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jnavarrof&count_private=true&show_icons=true&repo=github-readme-stats"  alt="GitHub Stats" />
+</a>
+<a href="https://github.com/jnavarrof/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnavarrof&layout=compact" alt="Top Langs" />
+</a>
+</p>
 
 ---
 
