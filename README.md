@@ -4,20 +4,20 @@
 ![](https://komarev.com/ghpvc/?username=jnavarrof&label=Profile%20views&color=0e75b6&style=flat)
 
 I'm Javier, a **HPC and Cloud Engineer** passionate about **DevOps/SRE** and automate stuff.
+- 🔭&nbsp;I'm currently working on HPC and Cloud Computing in large Scientific and Research environments. 
+I’m currently working on cool HPC and Cloud Computing in Scientic environments.
+- 🌱&nbsp;I keep improving in Infrastructure as a Code Best Practices & Patterns and Go.
+- 👨‍💻 &nbsp;Interested in Dos and Don'ts of building high-performance teams and improving collaboration.
+- 💬&nbsp;Ask me about High-Performance/High-Throughput Computing, and Private or Public Cloud.
 
-- 🔭 I’m currently working on cool HPC and Cloud Computing in Scientic environments.
-- 🌱 I keep improving in Infraestructure as a Code Best Practices & Patterns, and Go.
-- 👨‍💻 &nbsp;Interested in Do's and Don'ts of building high-performance teams. 
-- 💬 Ask me about High-Performance/High-Throughput Computing, and Private or Public Cloud.
-
-
-🔗 &nbsp;**Connect with me:**
+<h4>🔗&nbsp;Connect with me:</h4>
 <p align="left">
-<a href="https://linkedin.com/in/javiernavarrofdez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="javiernavarrofdez" height="30" width="40" /></a>
+<a href="mailto: javier.navarro.fdez@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail-in-alt.svg" alt="javiernavarrofdez" height="30" width="40"/></a>
+<a href="https://linkedin.com/in/javiernavarrofdez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="javiernavarrofdez" height="30" width="40"/></a>
 </p>
 
 
-🛠️ &nbsp;**Languages and Tools:**
+<h4>🛠️&nbsp;Languages, Tools and Technology Stack:</h4>
 <p align="left">
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> 
 </p>
@@ -36,22 +36,18 @@ I'm Javier, a **HPC and Cloud Engineer** passionate about **DevOps/SRE** and aut
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 -->
 
-<br/>
-
-📕 &nbsp; **Latest Blog Posts**
+<h4>📕 &nbsp; Latest Blog Posts</h4>
 <!-- https://jnavarrof.github.io/feed.xml -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
 
-📊 &nbsp;**GitHub Stats**
+<h4>📊 &nbsp;GitHub Stats</h4>
 <p align="center">
 <a href="https://github.com/jnavarrof/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jnavarrof&count_private=true&show_icons=true&repo=github-readme-stats"  alt="GitHub Stats" />
 </a>
-</p>
-<p align="center">
 <a href="https://github.com/jnavarrof/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnavarrof&layout=compact" alt="Top Langs" />
 </a>
