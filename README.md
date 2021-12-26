@@ -9,9 +9,8 @@ I’m currently working on cool HPC and Cloud Computing in Scientic environments
 - 🌱&nbsp;I keep improving in Infrastructure as a Code Best Practices & Patterns and Go.
 - 👨‍💻 &nbsp;Interested in Dos and Don'ts of building high-performance teams and improving collaboration.
 - 💬&nbsp;Ask me about High-Performance/High-Throughput Computing, and Private or Public Cloud.
-<br/>
 
-<h4>🔗&nbsp;Connect with me:</h4>
+<h4><p>🔗&nbsp;Connect with me:</p></h4>
 <p align="left">
 <a href="mailto: javier.navarro.fdez@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="javier.navarro.fdez@gmail.com" height="30"/></a>
 <a href="https://linkedin.com/in/javiernavarrofdez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="javiernavarrofdez" height="30" width="40"/></a>
@@ -19,14 +18,14 @@ I’m currently working on cool HPC and Cloud Computing in Scientic environments
 <a href="https://dev.to/jnavarrof" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jnavarrof" height="30" width="40" /></a>
 -->
 </p>
-<br/>
 
-<h4>🛠️&nbsp;Languages, Tools and Technology Stack:</h4>
+<!--
+<h4><p>🛠️&nbsp;Languages, Tools and Technology Stack:</p></h4>
 <p align="left">
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> 
 </p>
 <br/>
-
+-->
 <!--
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
@@ -40,15 +39,12 @@ I’m currently working on cool HPC and Cloud Computing in Scientic environments
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 -->
 
-<!--
-<h4>📕 &nbsp; Latest Blog Posts</h4>
+<!--<h4><p>📕 &nbsp; Latest Blog Posts</p></h4>-->
 <!-- https://jnavarrof.github.io/feed.xml -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-<br/>
--->
 
-<h2 align="center">My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h2>
+<h2 align="center"><p>My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></p></h2>
 <p align="center">
 <a href="https://github.com/jnavarrof/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jnavarrof&count_private=true&show_icons=true&repo=github-readme-stats"  alt="GitHub Stats" />
