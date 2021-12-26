@@ -3,9 +3,10 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 ![](https://komarev.com/ghpvc/?username=jnavarrof&label=Profile%20views&color=0e75b6&style=flat)
 
-## <h3 align="center">I'm Javier, an HPC and Cloud Engineer passionate about DevOps and SRE.</h3>
+I'm Javier, an HPC and Cloud Engineer passionate about **DevOps/SRE** and automate stuff.
 
 - 💬 Ask me about **High-Performance/High-Throughput Computing, Private & Public Cloud, and Infraestructure as Code.**
+
 
 <br/>
 
@@ -50,7 +51,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jnavarrof&count_private=true&show_icons=true&repo=github-readme-stats"  alt="GitHub Stats" />
 </a>
 <a href="https://github.com/jnavarrof/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnavarrof&layout=compact" alt="Top Langs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnavarrof" alt="Top Langs" />
 </a>
 </p>
 
