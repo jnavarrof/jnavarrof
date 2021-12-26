@@ -39,7 +39,8 @@ I’m currently working on cool HPC and Cloud Computing in Scientic environments
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 -->
 
-<!--<h4><p>📕 &nbsp; Latest Blog Posts</p></h4>-->
+<h4><p>📕 &nbsp; Latest Blog Posts</p></h4>
+<!-- TODOL dev.to and medium -->
 <!-- https://jnavarrof.github.io/feed.xml -->
 <!-- BLOG-POST-LIST:START -->
 - [First post!](https://jnavarrof.github.io/2018-10-26-first-post/)
