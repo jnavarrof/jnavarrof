@@ -49,7 +49,7 @@ I’m currently working on cool HPC and Cloud Computing in Scientic environments
 <!-- BLOG-POST-LIST:END -->
 <br/>
 
-<h2 align="center"><p>My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></p></h2>
+<h2 align="center">Github Stats</h2>
 <p align="center">
 <a href="https://github.com/jnavarrof/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jnavarrof&count_private=true&show_icons=true&repo=github-readme-stats"  alt="GitHub Stats" />
@@ -57,6 +57,11 @@ I’m currently working on cool HPC and Cloud Computing in Scientic environments
 <a href="https://github.com/jnavarrof/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnavarrof&layout=compact" alt="Top Langs" />
 </a>
+
+
+
+<h2 align="center">Github Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
+</h2>
 </p>
 <p align="center">
   <img src="https://github.com/jnavarrof/jnavarrof/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
