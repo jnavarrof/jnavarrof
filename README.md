@@ -1,23 +1,23 @@
-<h2>Hello <a href="#" style="vertical-align: middle;"><img src="https://bestanimations.com/uploads/gifs/726892854earth-spinning-rotating-animation-14.gif" alt="World" width="50px" style="vertical-align: bottom;"></a></h2>
+<h1>Hello <img src="https://bestanimations.com/uploads/gifs/726892854earth-spinning-rotating-animation-14.gif" alt="World" width="50px" style="vertical-align: middle;" /></h1>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=jnavarrof.jnavarrof)
 ![](https://komarev.com/ghpvc/?username=jnavarrof&label=Profile%20views&color=0e75b6&style=flat)
 
-I'm Javier, an HPC and Cloud Engineer passionate about **DevOps/SRE** and automate stuff.
+I'm Javier, a **HPC and Cloud Engineer** passionate about **DevOps/SRE** and automate stuff.
 
-- 💬 Ask me about **High-Performance/High-Throughput Computing, Private & Public Cloud, and Infraestructure as Code.**
+- 🔭 I’m currently working on cool HPC and Cloud Computing in Scientic environments.
+- 🌱 I keep improving in Infraestructure as a Code Best Practices & Patterns, and Go.
+- 👨‍💻 &nbsp;Interested in Do's and Don'ts of building high-performance teams. 
+- 💬 Ask me about High-Performance/High-Throughput Computing, and Private or Public Cloud.
 
 
-<br/>
-
-<h3 align="left">🔗 &nbsp;Connect with me:</h3>
+🔗 &nbsp;**Connect with me:**
 <p align="left">
 <a href="https://linkedin.com/in/javiernavarrofdez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="javiernavarrofdez" height="30" width="40" /></a>
 </p>
 
-<br/>
 
-<h3 align="left">🛠️ &nbsp;Languages and Tools:</h3>
+🛠️ &nbsp;**Languages and Tools:**
 <p align="left">
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> 
 </p>
