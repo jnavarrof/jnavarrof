@@ -57,11 +57,10 @@ I’m currently working on cool HPC and Cloud Computing in Scientic environments
 <a href="https://github.com/jnavarrof/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnavarrof&layout=compact" alt="Top Langs" />
 </a>
+</p>
 <br/>
 
-
 <h2 align="center">Github Contribution Graph</h2>
-</p>
 <p align="center">
   <img src="https://github.com/jnavarrof/jnavarrof/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
