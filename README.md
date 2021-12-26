@@ -43,9 +43,9 @@ I’m currently working on cool HPC and Cloud Computing in Scientic environments
 
 <br/>
 
-<h4 align="center">
-📊 &nbsp;Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">
-</h4>
+<h2 align="center">
+📊 &nbsp;Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+</h2>
 <p align="center">
 <a href="https://github.com/jnavarrof/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jnavarrof&count_private=true&show_icons=true&repo=github-readme-stats"  alt="GitHub Stats" />
