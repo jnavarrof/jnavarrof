@@ -1,6 +1,6 @@
-# Hello <img src="https://bestanimations.com/uploads/gifs/726892854earth-spinning-rotating-animation-14.gif" alt="World!" width="50px" style="vertical-align:middlei;margin-top:5px;">
+# Hello <a style="vertical-align:middle;margin-top:5px;"><img src="https://bestanimations.com/uploads/gifs/726892854earth-spinning-rotating-animation-14.gif" alt="World!" width="50px"></a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+![](https://visitor-badge.glitch.me/badge?page_id=jnavarrof.jnavarrof)
 ![](https://komarev.com/ghpvc/?username=jnavarrof&label=Profile%20views&color=0e75b6&style=flat)
 
 I'm Javier, an HPC and Cloud Engineer passionate about **DevOps/SRE** and automate stuff.
@@ -46,13 +46,16 @@ I'm Javier, an HPC and Cloud Engineer passionate about **DevOps/SRE** and automa
 <br/>
 
 📊 &nbsp;**GitHub Stats**
+<p align="center">
 <a href="https://github.com/jnavarrof/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jnavarrof&count_private=true&show_icons=true&repo=github-readme-stats"  alt="GitHub Stats" />
 </a>
-
+</p>
+<p align="center">
 <a href="https://github.com/jnavarrof/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnavarrof&layout=compact" alt="Top Langs" />
 </a>
+</p>
 
 ---
 
