@@ -30,20 +30,18 @@ I’m currently working on cool HPC and Cloud Computing in Scientic environments
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/cncf/landscape/blob/master/hosted_logos/nomad.svg" alt="nomad" width="40" height="40"/> </a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/cncf/landscape/blob/master/hosted_logos/consul.svg" alt="consul" width="40" height="40"/> </a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/cncf/landscape/blob/master/hosted_logos/vault.svg" alt="vault" width="40" height="40"/> </a>
-<br/>
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/cncf/landscape/blob/master/hosted_logos/packer.svg" alt="packer" width="40" height="40"/> </a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/cncf/landscape/blob/master/hosted_logos/terraform.svg" alt="terraform" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-<br/>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://biocorecrg.github.io/ELIXIR_containers_nextflow/images/singularity_logo.svg" alt="singularoty" width="40" height="40"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> 
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="#">_<img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" alt="confluence" height="40"/>_</a>
-<a href="#">_<img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" alt="Bitbucket" height="40"/>_</a>
-<a href="#">_<img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" alt="Jira" height="40"/>_</a>
+<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" alt="confluence" height="40"/></a>
+<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" alt="Bitbucket" height="40"/></a>
+<a href="#"><img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" height="40"/></a>
 <!--
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 -->
