@@ -42,6 +42,7 @@ I’m currently working on cool HPC and Cloud Computing in Scientic environments
 <!--<h4><p>📕 &nbsp; Latest Blog Posts</p></h4>-->
 <!-- https://jnavarrof.github.io/feed.xml -->
 <!-- BLOG-POST-LIST:START -->
+- [First post!](https://jnavarrof.github.io/2018-10-26-first-post/)
 <!-- BLOG-POST-LIST:END -->
 
 <h2 align="center"><p>My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></p></h2>
