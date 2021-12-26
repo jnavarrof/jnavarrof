@@ -1,4 +1,4 @@
-<h2>Hello <a href="#" style="margin-top: 25px;"><img src="https://bestanimations.com/uploads/gifs/726892854earth-spinning-rotating-animation-14.gif" alt="World" width="50px"></a></h2>
+<h2>Hello <a href="#" style="vertical-align: middle;"><img src="https://bestanimations.com/uploads/gifs/726892854earth-spinning-rotating-animation-14.gif" alt="World" width="50px"></a></h2>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=jnavarrof.jnavarrof)
 ![](https://komarev.com/ghpvc/?username=jnavarrof&label=Profile%20views&color=0e75b6&style=flat)
