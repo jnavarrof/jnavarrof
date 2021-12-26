@@ -41,9 +41,9 @@ I’m currently working on cool HPC and Cloud Computing in Scientic environments
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 -->
 
-📕 &nbsp;**Latest Blog Posts:**
 <!-- TODOL dev.to and medium -->
 <!-- https://jnavarrof.github.io/feed.xml -->
+📕 &nbsp;**Latest Blog Posts:**
 <!-- BLOG-POST-LIST:START -->
 - [First post!](https://jnavarrof.github.io/2018-10-26-first-post/)
 <!-- BLOG-POST-LIST:END -->
@@ -57,6 +57,7 @@ I’m currently working on cool HPC and Cloud Computing in Scientic environments
 <a href="https://github.com/jnavarrof/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnavarrof&layout=compact" alt="Top Langs" />
 </a>
+<br/>
 
 
 <h2 align="center">Github Contribution Graph</h2>
