@@ -1,4 +1,4 @@
-## Hello <img src="https://bestanimations.com/uploads/gifs/726892854earth-spinning-rotating-animation-14.gif" width="30px">
+# Hello <img src="https://bestanimations.com/uploads/gifs/726892854earth-spinning-rotating-animation-14.gif" alt="World!" width="50px" style="vertical-align:middle">
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 ![](https://komarev.com/ghpvc/?username=jnavarrof&label=Profile%20views&color=0e75b6&style=flat)
