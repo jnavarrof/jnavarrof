@@ -4,9 +4,8 @@
 ![](https://komarev.com/ghpvc/?username=jnavarrof&label=Profile%20views&color=0e75b6&style=flat)
 
 I'm Javier, a **HPC and Cloud Engineer** passionate about ![DevOps-SRE](https://img.shields.io/badge/DevOps-SRE-black) and automate stuff.
-- 🔭&nbsp;I'm currently working on HPC and Cloud Computing in large Scientific and Research environments. 
-I’m currently working on cool HPC and Cloud Computing in Scientic environments.
-- 🌱&nbsp;I keep improving in Infrastructure as a Code Best Practices & Patterns and Go.
+- 🔭&nbsp;Experience working on HPC and Cloud Computing in large Scientific and Research environments. 
+- 🌱&nbsp;I keep improving in Infrastructure as a Code Best Practices & Patterns.
 - 👨‍💻 &nbsp;Interested in Dos and Don'ts of building high-performance teams and improving collaboration.
 - 💬&nbsp;Ask me about High-Performance/High-Throughput Computing, and Private or Public Cloud.
 <br/>
