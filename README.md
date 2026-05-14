@@ -58,10 +58,13 @@ Engineering leader with 15+ years across HPC, cloud, SRE, and platform engineeri
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/-111827?style=flat-square&logo=opentelemetry&logoColor=white" alt="OpenTelemetry"> OpenTelemetry
-  <img src="https://img.shields.io/badge/-111827?style=flat-square&logo=grafana&logoColor=white" alt="Mimir"> Mimir
-  <img src="https://img.shields.io/badge/-111827?style=flat-square&logo=grafana&logoColor=white" alt="Tempo"> Tempo
-  <img src="https://img.shields.io/badge/-111827?style=flat-square&logo=grafana&logoColor=white" alt="Loki"> Loki
+  <img src="https://cdn.simpleicons.org/opentelemetry/FFFFFF" alt="OpenTelemetry" width="22" height="22"> OpenTelemetry
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/grafana/FFFFFF" alt="Mimir" width="22" height="22"> Mimir
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/grafana/FFFFFF" alt="Tempo" width="22" height="22"> Tempo
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/grafana/FFFFFF" alt="Loki" width="22" height="22"> Loki
 </p>
 
 ### Platform and HPC
@@ -71,11 +74,15 @@ Engineering leader with 15+ years across HPC, cloud, SRE, and platform engineeri
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/SL-111827?style=flat-square&labelColor=111827&color=111827" alt="Slurm"> Slurm
-  <img src="https://img.shields.io/badge/-111827?style=flat-square&logo=ceph&logoColor=white" alt="Ceph"> Ceph
-  <img src="https://img.shields.io/badge/-111827?style=flat-square&logo=nomad&logoColor=white" alt="Nomad"> Nomad
-  <img src="https://img.shields.io/badge/-111827?style=flat-square&logo=vault&logoColor=white" alt="Vault"> Vault
-  <img src="https://img.shields.io/badge/-111827?style=flat-square&logo=packer&logoColor=white" alt="Packer"> Packer
+  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/server.svg" alt="Slurm" width="22" height="22"> Slurm
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/ceph/FFFFFF" alt="Ceph" width="22" height="22"> Ceph
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nomad/FFFFFF" alt="Nomad" width="22" height="22"> Nomad
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/vault/FFFFFF" alt="Vault" width="22" height="22"> Vault
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/packer/FFFFFF" alt="Packer" width="22" height="22"> Packer
 </p>
 
 ## Contact
