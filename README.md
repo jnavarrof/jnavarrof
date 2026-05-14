@@ -47,11 +47,23 @@ Engineering leader with 15+ years across HPC, cloud, SRE, and platform engineeri
   <img src="https://img.shields.io/badge/Grafana-111827?style=flat-square&logo=grafana&logoColor=white" alt="Grafana">
   <img src="https://img.shields.io/badge/Mimir-111827?style=flat-square&logo=grafana&logoColor=white" alt="Mimir">
   <img src="https://img.shields.io/badge/Tempo-111827?style=flat-square&logo=grafana&logoColor=white" alt="Tempo">
+  <img src="https://img.shields.io/badge/Loki-111827?style=flat-square&logo=grafana&logoColor=white" alt="Loki">
   <img src="https://img.shields.io/badge/Slurm-111827?style=flat-square&logoColor=white" alt="Slurm">
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Ceph-111827?style=flat-square&logo=ceph&logoColor=white" alt="Ceph">
+  <img src="https://img.shields.io/badge/OpenStack-111827?style=flat-square&logo=openstack&logoColor=white" alt="OpenStack">
+  <img src="https://img.shields.io/badge/Nomad-111827?style=flat-square&logo=nomad&logoColor=white" alt="Nomad">
+  <img src="https://img.shields.io/badge/Vault-111827?style=flat-square&logo=vault&logoColor=white" alt="Vault">
+  <img src="https://img.shields.io/badge/Packer-111827?style=flat-square&logo=packer&logoColor=white" alt="Packer">
+  <img src="https://img.shields.io/badge/Ansible-111827?style=flat-square&logo=ansible&logoColor=white" alt="Ansible">
 </p>
 
 ## Contact
 
-- Website: https://jnavarrof.github.io
-- LinkedIn: https://www.linkedin.com/in/javiernavarrofdez/
-- Email: mailto:javier.navarro.fdez@gmail.com
+<p>
+  <a href="https://jnavarrof.github.io"><img src="https://img.shields.io/badge/Website-jnavarrof.github.io-0f172a?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="https://www.linkedin.com/in/javiernavarrofdez/"><img src="https://img.shields.io/badge/LinkedIn-javiernavarrofdez-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:javier.navarro.fdez@gmail.com"><img src="https://img.shields.io/badge/Email-javier.navarro.fdez%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
