@@ -35,6 +35,14 @@ Engineering leader with 15+ years across HPC, cloud, SRE, and platform engineeri
 - SRE practices, incident management, and service level objectives
 - HPC, scientific computing, and hybrid cloud infrastructure
 
+## Selected Certifications
+
+<p>
+  <img src="https://img.shields.io/badge/Google%20Project%20Management-111827?style=flat-square&logo=google&logoColor=white" alt="Google Project Management">
+  <img src="https://img.shields.io/badge/PagerDuty%20Incident%20Response-111827?style=flat-square&logo=pagerduty&logoColor=white" alt="PagerDuty Incident Response">
+  <img src="https://img.shields.io/badge/Google%20Cloud%20Professional%20Cloud%20Architect-111827?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud Professional Cloud Architect">
+</p>
+
 ## Platforms and Tooling
 
 ### Core Stack
