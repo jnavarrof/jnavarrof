@@ -41,6 +41,15 @@ Engineering leader with 15+ years across HPC, cloud, SRE, and platform engineeri
   <img src="https://skillicons.dev/icons?i=linux,aws,gcp,kubernetes,terraform,prometheus,grafana,python,go,docker" alt="Linux, AWS, GCP, Kubernetes, Terraform, Prometheus, Grafana, Python, Go, Docker" />
 </p>
 
+<p>
+  <img src="https://img.shields.io/badge/Elasticsearch-111827?style=flat-square&logo=elasticsearch&logoColor=white" alt="Elasticsearch">
+  <img src="https://img.shields.io/badge/OpenTelemetry-111827?style=flat-square&logo=opentelemetry&logoColor=white" alt="OpenTelemetry">
+  <img src="https://img.shields.io/badge/Grafana-111827?style=flat-square&logo=grafana&logoColor=white" alt="Grafana">
+  <img src="https://img.shields.io/badge/Mimir-111827?style=flat-square&logo=grafana&logoColor=white" alt="Mimir">
+  <img src="https://img.shields.io/badge/Tempo-111827?style=flat-square&logo=grafana&logoColor=white" alt="Tempo">
+  <img src="https://img.shields.io/badge/Slurm-111827?style=flat-square&logoColor=white" alt="Slurm">
+</p>
+
 ## Contact
 
 - Website: https://jnavarrof.github.io
