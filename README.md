@@ -48,34 +48,38 @@ Engineering leader with 15+ years across HPC, cloud, SRE, and platform engineeri
 ### Core Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,aws,gcp,kubernetes,terraform,ansible,python,go,docker" alt="Linux, AWS, GCP, Kubernetes, Terraform, Ansible, Python, Go, Docker" />
+  <img src="https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=white" alt="Linux">
+  <img src="https://img.shields.io/badge/AWS-111827?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/GCP-111827?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP">
+  <img src="https://img.shields.io/badge/Kubernetes-111827?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/Terraform-111827?style=flat-square&logo=terraform&logoColor=white" alt="Terraform">
+  <img src="https://img.shields.io/badge/Ansible-111827?style=flat-square&logo=ansible&logoColor=white" alt="Ansible">
+  <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Go-111827?style=flat-square&logo=go&logoColor=white" alt="Go">
+  <img src="https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=white" alt="Docker">
 </p>
 
 ### Observability
 
 <p>
-  <img src="https://skillicons.dev/icons?i=elasticsearch,prometheus,grafana" alt="Elasticsearch, Prometheus, Grafana" />
-</p>
-
-<p>
-  <img src="https://cdn.simpleicons.org/opentelemetry/FFFFFF" alt="OpenTelemetry" title="OpenTelemetry" width="38" height="38">
-  <img src="https://cdn.simpleicons.org/grafana/FFFFFF" alt="Mimir" title="Mimir" width="38" height="38">
-  <img src="https://cdn.simpleicons.org/grafana/FFFFFF" alt="Tempo" title="Tempo" width="38" height="38">
-  <img src="https://cdn.simpleicons.org/grafana/FFFFFF" alt="Loki" title="Loki" width="38" height="38">
+  <img src="https://img.shields.io/badge/Elasticsearch-111827?style=flat-square&logo=elasticsearch&logoColor=white" alt="Elasticsearch">
+  <img src="https://img.shields.io/badge/Prometheus-111827?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus">
+  <img src="https://img.shields.io/badge/Grafana-111827?style=flat-square&logo=grafana&logoColor=white" alt="Grafana">
+  <img src="https://img.shields.io/badge/OpenTelemetry-111827?style=flat-square&logo=opentelemetry&logoColor=white" alt="OpenTelemetry">
+  <img src="https://img.shields.io/badge/Mimir-111827?style=flat-square&logo=grafana&logoColor=white" alt="Mimir">
+  <img src="https://img.shields.io/badge/Tempo-111827?style=flat-square&logo=grafana&logoColor=white" alt="Tempo">
+  <img src="https://img.shields.io/badge/Loki-111827?style=flat-square&logo=grafana&logoColor=white" alt="Loki">
 </p>
 
 ### Platform and HPC
 
 <p>
-  <img src="https://skillicons.dev/icons?i=openstack,ansible,kubernetes,terraform,docker" alt="OpenStack, Ansible, Kubernetes, Terraform, Docker" />
-</p>
-
-<p>
-  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/server.svg" alt="Slurm" title="Slurm" width="38" height="38">
-  <img src="https://cdn.simpleicons.org/ceph/FFFFFF" alt="Ceph" title="Ceph" width="38" height="38">
-  <img src="https://cdn.simpleicons.org/nomad/FFFFFF" alt="Nomad" title="Nomad" width="38" height="38">
-  <img src="https://cdn.simpleicons.org/vault/FFFFFF" alt="Vault" title="Vault" width="38" height="38">
-  <img src="https://cdn.simpleicons.org/packer/FFFFFF" alt="Packer" title="Packer" width="38" height="38">
+  <img src="https://img.shields.io/badge/OpenStack-111827?style=flat-square&logo=openstack&logoColor=white" alt="OpenStack">
+  <img src="https://img.shields.io/badge/Slurm-111827?style=flat-square" alt="Slurm">
+  <img src="https://img.shields.io/badge/Ceph-111827?style=flat-square&logo=ceph&logoColor=white" alt="Ceph">
+  <img src="https://img.shields.io/badge/Nomad-111827?style=flat-square&logo=nomad&logoColor=white" alt="Nomad">
+  <img src="https://img.shields.io/badge/Vault-111827?style=flat-square&logo=vault&logoColor=white" alt="Vault">
+  <img src="https://img.shields.io/badge/Packer-111827?style=flat-square&logo=packer&logoColor=white" alt="Packer">
 </p>
 
 ## Contact
