@@ -58,13 +58,10 @@ Engineering leader with 15+ years across HPC, cloud, SRE, and platform engineeri
 </p>
 
 <p>
-  <img src="https://cdn.simpleicons.org/opentelemetry/FFFFFF" alt="OpenTelemetry" width="22" height="22"> OpenTelemetry
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/grafana/FFFFFF" alt="Mimir" width="22" height="22"> Mimir
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/grafana/FFFFFF" alt="Tempo" width="22" height="22"> Tempo
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/grafana/FFFFFF" alt="Loki" width="22" height="22"> Loki
+  <img src="https://cdn.simpleicons.org/opentelemetry/FFFFFF" alt="OpenTelemetry" title="OpenTelemetry" width="38" height="38">
+  <img src="https://cdn.simpleicons.org/grafana/FFFFFF" alt="Mimir" title="Mimir" width="38" height="38">
+  <img src="https://cdn.simpleicons.org/grafana/FFFFFF" alt="Tempo" title="Tempo" width="38" height="38">
+  <img src="https://cdn.simpleicons.org/grafana/FFFFFF" alt="Loki" title="Loki" width="38" height="38">
 </p>
 
 ### Platform and HPC
@@ -74,15 +71,11 @@ Engineering leader with 15+ years across HPC, cloud, SRE, and platform engineeri
 </p>
 
 <p>
-  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/server.svg" alt="Slurm" width="22" height="22"> Slurm
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/ceph/FFFFFF" alt="Ceph" width="22" height="22"> Ceph
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/nomad/FFFFFF" alt="Nomad" width="22" height="22"> Nomad
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/vault/FFFFFF" alt="Vault" width="22" height="22"> Vault
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/packer/FFFFFF" alt="Packer" width="22" height="22"> Packer
+  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/server.svg" alt="Slurm" title="Slurm" width="38" height="38">
+  <img src="https://cdn.simpleicons.org/ceph/FFFFFF" alt="Ceph" title="Ceph" width="38" height="38">
+  <img src="https://cdn.simpleicons.org/nomad/FFFFFF" alt="Nomad" title="Nomad" width="38" height="38">
+  <img src="https://cdn.simpleicons.org/vault/FFFFFF" alt="Vault" title="Vault" width="38" height="38">
+  <img src="https://cdn.simpleicons.org/packer/FFFFFF" alt="Packer" title="Packer" width="38" height="38">
 </p>
 
 ## Contact
