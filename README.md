@@ -24,9 +24,9 @@ Engineering leader with 15+ years across HPC, cloud, SRE, and platform engineeri
 ## Focus Areas
 
 <p>
-  <img src="https://img.shields.io/badge/Engineering%20Leadership-111827?style=flat-square&logo=githubactions&logoColor=white" alt="Engineering Leadership">
+  <img src="https://img.shields.io/badge/Engineering%20Leadership-111827?style=flat-square" alt="Engineering Leadership">
   <img src="https://img.shields.io/badge/Observability-111827?style=flat-square&logo=opentelemetry&logoColor=white" alt="Observability">
-  <img src="https://img.shields.io/badge/SRE-111827?style=flat-square&logo=googlecloud&logoColor=white" alt="SRE">
+  <img src="https://img.shields.io/badge/SRE-111827?style=flat-square&logo=pagerduty&logoColor=white" alt="SRE">
   <img src="https://img.shields.io/badge/HPC%20%26%20Cloud-111827?style=flat-square&logo=linux&logoColor=white" alt="HPC and Cloud">
 </p>
 
@@ -35,13 +35,15 @@ Engineering leader with 15+ years across HPC, cloud, SRE, and platform engineeri
 - SRE practices, incident management, and service level objectives
 - HPC, scientific computing, and hybrid cloud infrastructure
 
-## Platforms And Tooling
+## Platforms and Tooling
+
+### Core Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,aws,gcp,kubernetes,terraform,prometheus,grafana,python,go,docker" alt="Linux, AWS, GCP, Kubernetes, Terraform, Prometheus, Grafana, Python, Go, Docker" />
+  <img src="https://skillicons.dev/icons?i=linux,aws,gcp,kubernetes,terraform,ansible,python,go,docker" alt="Linux, AWS, GCP, Kubernetes, Terraform, Ansible, Python, Go, Docker" />
 </p>
 
-<p><strong>Observability</strong></p>
+### Observability
 
 <p>
   <img src="https://img.shields.io/badge/Elasticsearch-111827?style=flat-square&logo=elasticsearch&logoColor=white" alt="Elasticsearch">
@@ -52,7 +54,7 @@ Engineering leader with 15+ years across HPC, cloud, SRE, and platform engineeri
   <img src="https://img.shields.io/badge/Loki-111827?style=flat-square&logo=grafana&logoColor=white" alt="Loki">
 </p>
 
-<p><strong>Platform And HPC</strong></p>
+### Platform and HPC
 
 <p>
   <img src="https://img.shields.io/badge/Slurm-111827?style=flat-square&logoColor=white" alt="Slurm">
@@ -66,6 +68,6 @@ Engineering leader with 15+ years across HPC, cloud, SRE, and platform engineeri
 
 ## Contact
 
-- <a href="https://jnavarrof.github.io"><img src="https://img.shields.io/badge/Website-0f172a?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"></a> `jnavarrof.github.io`
-- <a href="https://www.linkedin.com/in/jnavarrofdez/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> `linkedin.com/in/javiernavarrofdez`
-- <a href="mailto:javier.navarro.fdez@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a> `javier.navarro.fdez@gmail.com`
+- <a href="https://jnavarrof.github.io"><img src="https://img.shields.io/badge/Website-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"></a> `jnavarrof.github.io`
+- <a href="https://www.linkedin.com/in/jnavarrofdez/"><img src="https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> `linkedin.com/in/javiernavarrofdez`
+- <a href="mailto:javier.navarro.fdez@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a> `javier.navarro.fdez@gmail.com`
