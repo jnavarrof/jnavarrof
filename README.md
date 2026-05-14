@@ -38,9 +38,9 @@ Engineering leader with 15+ years across HPC, cloud, SRE, and platform engineeri
 ## Selected Certifications
 
 <p>
-  <img src="https://img.shields.io/badge/Google%20Project%20Management-111827?style=flat-square&logo=google&logoColor=white" alt="Google Project Management">
-  <img src="https://img.shields.io/badge/PagerDuty%20Incident%20Response-111827?style=flat-square&logo=pagerduty&logoColor=white" alt="PagerDuty Incident Response">
-  <img src="https://img.shields.io/badge/Google%20Cloud%20Professional%20Cloud%20Architect-111827?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud Professional Cloud Architect">
+  <img src="https://img.shields.io/badge/Google%20Project%20Management-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Project Management">
+  <img src="https://img.shields.io/badge/PagerDuty%20Incident%20Response-06AC38?style=flat-square&logo=pagerduty&logoColor=white" alt="PagerDuty Incident Response">
+  <img src="https://img.shields.io/badge/Google%20Cloud%20Professional%20Cloud%20Architect-1A73E8?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud Professional Cloud Architect">
 </p>
 
 ## Platforms and Tooling
@@ -54,9 +54,11 @@ Engineering leader with 15+ years across HPC, cloud, SRE, and platform engineeri
 ### Observability
 
 <p>
-  <img src="https://img.shields.io/badge/Elasticsearch-111827?style=flat-square&logo=elasticsearch&logoColor=white" alt="Elasticsearch">
-  <img src="https://img.shields.io/badge/OpenTelemetry-111827?style=flat-square&logo=opentelemetry&logoColor=white" alt="OpenTelemetry">
-  <img src="https://img.shields.io/badge/Grafana-111827?style=flat-square&logo=grafana&logoColor=white" alt="Grafana">
+  <img src="https://skillicons.dev/icons?i=elasticsearch,prometheus,grafana" alt="Elasticsearch, Prometheus, Grafana" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/OTel-111827?style=flat-square&logo=opentelemetry&logoColor=white" alt="OpenTelemetry">
   <img src="https://img.shields.io/badge/Mimir-111827?style=flat-square&logo=grafana&logoColor=white" alt="Mimir">
   <img src="https://img.shields.io/badge/Tempo-111827?style=flat-square&logo=grafana&logoColor=white" alt="Tempo">
   <img src="https://img.shields.io/badge/Loki-111827?style=flat-square&logo=grafana&logoColor=white" alt="Loki">
@@ -65,17 +67,19 @@ Engineering leader with 15+ years across HPC, cloud, SRE, and platform engineeri
 ### Platform and HPC
 
 <p>
+  <img src="https://skillicons.dev/icons?i=openstack,ansible,kubernetes,terraform,docker" alt="OpenStack, Ansible, Kubernetes, Terraform, Docker" />
+</p>
+
+<p>
   <img src="https://img.shields.io/badge/Slurm-111827?style=flat-square&logoColor=white" alt="Slurm">
   <img src="https://img.shields.io/badge/Ceph-111827?style=flat-square&logo=ceph&logoColor=white" alt="Ceph">
-  <img src="https://img.shields.io/badge/OpenStack-111827?style=flat-square&logo=openstack&logoColor=white" alt="OpenStack">
   <img src="https://img.shields.io/badge/Nomad-111827?style=flat-square&logo=nomad&logoColor=white" alt="Nomad">
   <img src="https://img.shields.io/badge/Vault-111827?style=flat-square&logo=vault&logoColor=white" alt="Vault">
   <img src="https://img.shields.io/badge/Packer-111827?style=flat-square&logo=packer&logoColor=white" alt="Packer">
-  <img src="https://img.shields.io/badge/Ansible-111827?style=flat-square&logo=ansible&logoColor=white" alt="Ansible">
 </p>
 
 ## Contact
 
-- <a href="https://jnavarrof.github.io"><img src="https://img.shields.io/badge/Website-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"></a> `jnavarrof.github.io`
-- <a href="https://www.linkedin.com/in/jnavarrofdez/"><img src="https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> `linkedin.com/in/javiernavarrofdez`
-- <a href="mailto:javier.navarro.fdez@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a> `javier.navarro.fdez@gmail.com`
+- <a href="https://jnavarrof.github.io"><img src="https://img.shields.io/badge/-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"></a> [Website](https://jnavarrof.github.io)
+- <a href="https://www.linkedin.com/in/jnavarrofdez/"><img src="https://img.shields.io/badge/-111827?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> [LinkedIn](https://www.linkedin.com/in/jnavarrofdez/)
+- <a href="mailto:javier.navarro.fdez@gmail.com"><img src="https://img.shields.io/badge/-111827?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a> [Email](mailto:javier.navarro.fdez@gmail.com)
