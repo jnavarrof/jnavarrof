@@ -58,10 +58,10 @@ Engineering leader with 15+ years across HPC, cloud, SRE, and platform engineeri
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/OTel-111827?style=flat-square&logo=opentelemetry&logoColor=white" alt="OpenTelemetry">
-  <img src="https://img.shields.io/badge/Mimir-111827?style=flat-square&logo=grafana&logoColor=white" alt="Mimir">
-  <img src="https://img.shields.io/badge/Tempo-111827?style=flat-square&logo=grafana&logoColor=white" alt="Tempo">
-  <img src="https://img.shields.io/badge/Loki-111827?style=flat-square&logo=grafana&logoColor=white" alt="Loki">
+  <img src="https://img.shields.io/badge/-111827?style=flat-square&logo=opentelemetry&logoColor=white" alt="OpenTelemetry"> OpenTelemetry
+  <img src="https://img.shields.io/badge/-111827?style=flat-square&logo=grafana&logoColor=white" alt="Mimir"> Mimir
+  <img src="https://img.shields.io/badge/-111827?style=flat-square&logo=grafana&logoColor=white" alt="Tempo"> Tempo
+  <img src="https://img.shields.io/badge/-111827?style=flat-square&logo=grafana&logoColor=white" alt="Loki"> Loki
 </p>
 
 ### Platform and HPC
@@ -71,15 +71,17 @@ Engineering leader with 15+ years across HPC, cloud, SRE, and platform engineeri
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Slurm-111827?style=flat-square&logoColor=white" alt="Slurm">
-  <img src="https://img.shields.io/badge/Ceph-111827?style=flat-square&logo=ceph&logoColor=white" alt="Ceph">
-  <img src="https://img.shields.io/badge/Nomad-111827?style=flat-square&logo=nomad&logoColor=white" alt="Nomad">
-  <img src="https://img.shields.io/badge/Vault-111827?style=flat-square&logo=vault&logoColor=white" alt="Vault">
-  <img src="https://img.shields.io/badge/Packer-111827?style=flat-square&logo=packer&logoColor=white" alt="Packer">
+  <img src="https://img.shields.io/badge/SL-111827?style=flat-square&labelColor=111827&color=111827" alt="Slurm"> Slurm
+  <img src="https://img.shields.io/badge/-111827?style=flat-square&logo=ceph&logoColor=white" alt="Ceph"> Ceph
+  <img src="https://img.shields.io/badge/-111827?style=flat-square&logo=nomad&logoColor=white" alt="Nomad"> Nomad
+  <img src="https://img.shields.io/badge/-111827?style=flat-square&logo=vault&logoColor=white" alt="Vault"> Vault
+  <img src="https://img.shields.io/badge/-111827?style=flat-square&logo=packer&logoColor=white" alt="Packer"> Packer
 </p>
 
 ## Contact
 
-- <a href="https://jnavarrof.github.io"><img src="https://img.shields.io/badge/-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"></a> [Website](https://jnavarrof.github.io)
-- <a href="https://www.linkedin.com/in/jnavarrofdez/"><img src="https://img.shields.io/badge/-111827?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> [LinkedIn](https://www.linkedin.com/in/jnavarrofdez/)
-- <a href="mailto:javier.navarro.fdez@gmail.com"><img src="https://img.shields.io/badge/-111827?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a> [Email](mailto:javier.navarro.fdez@gmail.com)
+<p>
+  <a href="https://jnavarrof.github.io" title="Website"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/globe.svg" alt="Website" width="28" height="28"></a>
+  <a href="https://www.linkedin.com/in/jnavarrofdez/" title="LinkedIn"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" alt="LinkedIn" width="28" height="28"></a>
+  <a href="mailto:javier.navarro.fdez@gmail.com" title="Email"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/envelope.svg" alt="Email" width="28" height="28"></a>
+</p>
