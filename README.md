@@ -81,7 +81,7 @@ Engineering leader with 15+ years across HPC, cloud, SRE, and platform engineeri
 ## Contact
 
 <p>
-  <a href="https://jnavarrof.github.io" title="Website"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/globe.svg" alt="Website" width="28" height="28"></a> <a href="https://jnavarrof.github.io">Website</a><br>
-  <a href="https://www.linkedin.com/in/jnavarrofdez/" title="LinkedIn"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" alt="LinkedIn" width="28" height="28"></a> <a href="https://www.linkedin.com/in/jnavarrofdez/">LinkedIn</a><br>
-  <a href="mailto:javier.navarro.fdez@gmail.com" title="Email"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/envelope.svg" alt="Email" width="28" height="28"></a> <a href="mailto:javier.navarro.fdez@gmail.com">Email</a>
+  <a href="https://jnavarrof.github.io" title="Website"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/globe.svg" alt="Website" width="28" height="28"></a> <a href="https://jnavarrof.github.io">Personal website</a><br>
+  <a href="https://www.linkedin.com/in/jnavarrofdez/" title="LinkedIn"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" alt="LinkedIn" width="28" height="28"></a> <a href="https://www.linkedin.com/in/jnavarrofdez/">LinkedIn profile</a><br>
+  <a href="mailto:javier.navarro.fdez@gmail.com" title="Email"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/envelope.svg" alt="Email" width="28" height="28"></a> <a href="mailto:javier.navarro.fdez@gmail.com">Email me</a>
 </p>
