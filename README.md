@@ -12,14 +12,14 @@
 
 </div>
 
-Engineering leader with 15+ years across HPC, cloud, SRE, and platform engineering. I build and scale reliability, observability, and compute platforms, and I lead teams delivering infrastructure for demanding scientific and SaaS workloads.
+I'm a tech lead and engineering leader with 15+ years across HPC, cloud, SRE, and platform engineering. I build reliable observability and compute platforms for scientific and SaaS environments.
 
 ## Highlights
 
-- Lead observability platforms supporting hundreds of engineers and multi-petabyte telemetry workloads.
-- Drove OpenTelemetry adoption and stronger SLO and incident-management practices across engineering platforms.
-- Led a 25-engineer HPC, storage, and cloud organization supporting research-intensive environments at AstraZeneca.
-- Built and operated large-scale scientific computing and hybrid cloud platforms across SaaS and research organizations.
+- Tech Lead for observability at Cisco Meraki, supporting telemetry platforms at multi-petabyte scale.
+- Drove OpenTelemetry adoption and stronger SLO and incident management practices.
+- Worked across multidisciplinary HPC, storage, and private cloud teams at AstraZeneca.
+- Built and operated scientific computing and hybrid cloud platforms across research and SaaS environments.
 
 ## Focus Areas
 
